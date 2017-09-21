@@ -15,6 +15,7 @@ namespace Task_8
                 this.v1 = v1;
                 this.v2 = v2;
             }
+
         }
         static Random rnd = new Random();
         static int K;
